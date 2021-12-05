@@ -1,2 +1,5 @@
-alert("hi");
-alert("ok")
+
+function sayHello(h){
+
+    alert (h);
+}
